@@ -1,9 +1,9 @@
-##For Week 1 assignment (Exploring the HyperText Transfer Protocol):
+## For Week 1 assignment (Exploring the HyperText Transfer Protocol):
 	You can go to "Developer Mode" -> "Network"
 	And copy all details from the "Response-header" tab.
 
 	
-#Just to verify:
+# Just to verify:
 
 *Last-Modified:	
 	Sat, 13 May 2017 11:22:22 GMT
@@ -20,4 +20,6 @@
 *Content-Type:
 	text/plain
 
+## For Practice quiz:
+ Although the quiz is easiest if you watch the videos, but for answers, contact me [here](https://github.com/pyprogr/Django-for-everybody/issues)
 
